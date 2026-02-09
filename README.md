@@ -5,8 +5,9 @@ This project replicates and optimises the computational pipeline developed durin
 
 ## 🔬 Technical Achievements
 - **Thermodynamic Modeling:** Replicated NUPACK simulation logic for 50,000 synthetic RNA sequences.
-- **Biophysical Characterization:** Implemented non-linear curve fitting using the **Hill Equation** to extract Melting Temperature (Tm) and Cooperativity (n).
-- **Machine Learning Optimization:** Upgraded the dissertation's baseline Linear Regression ($R^2=0.30/0.80$) to an **XGBoost Regressor**, achieving an **$R^2$ of 0.90**.
+- **Biophysical Characteris
+ation:** Implemented non-linear curve fitting using the **Hill Equation** to extract Melting Temperature (Tm) and Cooperativity (n).
+- **Machine Learning Optimisation:** Upgraded the dissertation's baseline Linear Regression ($R^2=0.30/0.80$) to an **XGBoost Regressor**, achieving an **$R^2$ of 0.90**.
 - **High-Throughput Screening:** Reduced the time required to estimate RBS accessibility from hours (simulation) to milliseconds (ML prediction).
 
 ## 🚀 Impact
