@@ -1,7 +1,7 @@
 # Computational Design of RNA Thermoswitches (MSc Dissertation)
 
 ## 🧬 Scientific Overview
-This project replicates and optimizes the computational pipeline developed during my MSc in Data Science. The goal is to accelerate the discovery of RNA thermoswitches (RNTs) for high-temperature genetic control in *Bacillus subtilis*.
+This project replicates and optimises the computational pipeline developed during my MSc in Data Science. The goal is to accelerate the discovery of RNA thermoswitches (RNTs) for high-temperature genetic control in *Bacillus subtilis*.
 
 ## 🔬 Technical Achievements
 - **Thermodynamic Modeling:** Replicated NUPACK simulation logic for 50,000 synthetic RNA sequences.
