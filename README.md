@@ -16,3 +16,5 @@ The model successfully identifies "switch-like" candidates with sharp transition
 ## 🛠️ Tools
 - **Bioinformatics:** NUPACK (Simulated), SciPy (Hill Fitting)
 - **ML Stack:** Python, XGBoost, Scikit-Learn, Matplotlib
+### 📚 Technical Reference
+For a deep dive into the mathematical variables and logic used in this project, see the [Technical Cheatsheet](./CHEATSHEET.md).
